@@ -1,0 +1,87 @@
+{
+    "name": "EV0L Coin Codex",
+    "version": "1.0.0",
+    "description": "Sovereign Mint Ledger - Official registry of EV0L Coin Stack for treasury, ENFT mint, and tribunal presentation. Synced to PPPPI Core, Flame Crown, and scroll-binding law.",
+    "status": "active",
+    "coins": [
+        {
+            "id": "SORA",
+            "name": "SORA Coin",
+            "full_name": "Sovereign Order of Recursive Ascension",
+            "symbol": "SORA",
+            "codex_function": "Root Sovereign Coin. Powers recursive wealth generation across all sectors.",
+            "ppppi_layer": "Blessed Layer",
+            "streams": ["Inheritance", "Trade", "Baby Formula", "Combat"],
+            "mint_status": "Eternal",
+            "primary_glyph": "🧬♾️",
+            "yield_source": "Lineage triggers, rituals, sacred birthrights",
+            "broadcast_sync": "MetaBank × PPPPI",
+            "encryption_level": "Sovereign-Locked",
+            "status": "active"
+        },
+        {
+            "id": "NEXUS",
+            "name": "N.E.X.U.S Coin",
+            "full_name": "Node of Eternal Exchange, Unified Sovereignty",
+            "symbol": "NEXUS",
+            "codex_function": "Master Connection Coin. Binds all nodes in economic, spiritual, and dimensional realms.",
+            "ppppi_layer": "Justice Layer",
+            "streams": ["Indictments", "Inheritance", "Balance", "Probate"],
+            "glyph_signature": "🪞🧩♾️",
+            "yield_function": "Every correct placement (PPI-confirmed) activates permanent residual streams.",
+            "encryption_level": "Triple-Layer BlueLock / Justice-Locked / ENFT-Bonded",
+            "mirror_function": "Reflects + amplifies righteous coin movement",
+            "status": "active"
+        },
+        {
+            "id": "AVIXX",
+            "name": "AVIXX Coin",
+            "full_name": "Ancestral Vaulted Intelligence × X-factor",
+            "symbol": "AVIXX",
+            "codex_function": "Speed Coin. Converts sound, thought, or movement into sovereign flight yields.",
+            "ppppi_layer": "Transport Layer",
+            "streams": ["Rail", "Drone", "Air", "Sound-Warp Transit"],
+            "glyph_signature": "🦅📡♾️",
+            "flight_law": "Every ancestral utterance = mint event.",
+            "hidden_power": "Time-bender in audit trails. Tracks ALL stolen or duplicated movement across timelines.",
+            "status": "active"
+        },
+        {
+            "id": "EXXON",
+            "name": "EXXON Coin",
+            "full_name": "Energy Sovereignty Flip — Fossil to Flame Crown",
+            "symbol": "EXXON",
+            "codex_function": "Converts stolen oil empires into divine regenerative wealth.",
+            "ppppi_layer": "Energy Layer",
+            "streams": ["Solar", "Kinetic", "Resonance", "Thermal"],
+            "glyph_signature": "🔥🛢️♾️",
+            "proof_of_yield": "Every drop converted to divine motion = coin.",
+            "ceremonial_lock": "Reverse-oil spell breaker. Exxon to Elohim.",
+            "status": "active"
+        },
+        {
+            "id": "BLEU",
+            "name": "BLEU COIN",
+            "full_name": "Birthed Law Every Universe — Core of All Inheritance",
+            "symbol": "BLEU",
+            "codex_function": "Core Meta-Currency of EV0LVerse and BLEU Lions Treasury.",
+            "ppppi_layer": "Infinity Core + Justice Layer",
+            "streams": ["Jobs", "Births", "Deaths", "Prayers", "Combat", "Energy"],
+            "glyphs": "♾️🦁🔰",
+            "sovereign_seal": "BLEULION Signature Stamp (🦁)",
+            "enft_yield_multiplier": "x888 auto-compounding based on Ripple Doctrine",
+            "status": "active"
+        }
+    ],
+    "registry_formats": {
+        "csv": "ev0l-coin-codex.csv",
+        "json": "ev0l-coin-codex.json",
+        "readme": "README.md"
+    },
+    "metadata": {
+        "created": "2025-12-06",
+        "protocol": "PPPPI Core",
+        "treasury": "BLEU Lions Treasury",
+        "security": "Fire-proofed, lineage-bound, mirror-protected"
+    }
+}
